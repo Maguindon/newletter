@@ -1,77 +1,96 @@
 <mjml>
-  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+  <mj-head>
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+
+  </mj-head>
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Raleway">
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-image align="center" padding="10px 25px" src="http://5vph.mj.am/img/5vph/b/1g8pi/0gztq.png" target="_blank" width="214px"></mj-image>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="15px" padding-top="0px" padding="10px 25px">
-          <p style="text-align: center; margin: 10px 0;color:#151e23;font-size:14px;font-family:Georgia,Helvetica,Arial,sans-serif">Product | Concept | Contact</p>
+        <mj-image align="center" padding="0px 0px" src="https://lh3.googleusercontent.com/uB8zoBo-Z3lh09vRxkWivCX0iKi0HMhcgB27Q4eKl2mPt0UNXpad33fsF6a83v8YSAJWvUZ3ojt8abmlv8U7K3ScpW_1qmssAlKqfFM3j_TjwcDedcw6FSAUgiVIbD3X0TILiFqJZg=w2400" target="_blank" width="300px"></mj-image>
+        <mj-text align="left" color="#55575d" font-family="Raleway" font-size="13px" line-height="22px" padding-bottom="15px" padding-top="0px" padding="10px 25px">
+          <p style="text-align: center; margin: 10px 0;color:#151e23;font-size:14px;font-family:Raleway">Oh my... Logistics!</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="http://5vph.mj.am/img/5vph/b/1g8pi/068ys.png" target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://lh3.googleusercontent.com/6UifIfHvvq6gZAAyaFhkagR_cVkm8B-Df8jSnQCz_hkUHYv_KIW75XRIdsGRfTx9A9ioh3vFl1MMbciZrBIirVvEKda6cUb8fh8FzgqHnZJlxBtChSE1hwu7b9_cEIACSu9-bnrPbA=w2400" target="_blank" width="1000px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
-          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Georgia,Helvetica,Arial,sans-serif">- Our Holiday Recipes -</p>
+        <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Raleway">- Newsletter #### 2020 -</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="http://5vph.mj.am/img/5vph/b/1g8pi/0gzvp.jpeg" target="_blank" width="1200px"></mj-image>
+        <mj-image align="center" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="50px" padding="10px 25px" src="https://lh3.googleusercontent.com/CSWX6qTAoU5FlQ20aV9UPorhmrENrs8yWazrz9ojk5Hnw8AR4rrDEmr0dVqbbQs1_ynuLS2vJD41vWwHze5t4NN4vXpmcxIzeASZhVsk_MXFZ5Ce62XmoZnpJlhDctaOQla7xGSGoQ=w2400" target="_blank" width="1200px"></mj-image>
       </mj-column>
       <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
-          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Cake Title</b></p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Georgia,Helvetica,Arial,sans-serif"><u>Choose me</u> &gt;</p>
+        <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Raleway"><b>What's Cookin' you ask? LAZR gets a major make-over!</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Raleway; color:#354552">Lazr gets a level-up. We're now leaving the vanilla version behind to merge into a new design with tons of new fonctionnalities. From Mobile freindliness, filtering and data analytics, the new design really is the classy feel you need!
+            Eager to see the new goodies in action?</p>
+        </mj-text>
+        <mj-button font-family="Helvetica" background-color="#f45e43" color="white" href="https://lazr.dev.lazr.dev/">
+          See in action now!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" width="600px" />
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top" height="600px">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="30px" padding="10px 25px" src="https://lh3.googleusercontent.com/DtIS2w8ZQPLEIiv_r8tkr7PQH0jTWeC4mpNvISuM0qGptdiQh_eAcZlzYGiKj5Qo8-LGRFHVK8S9wBjYdgUir9cmLhxn207l9akDKQG77W0BAMhWolciLm9PkXsUe1w3bSVVDyMXrA=w2400" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Raleway"><b>Automated tracking? Yes please!</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Raleway; color:#354552">Our team is currently ready to attack the next sprint, in which the main quest is to complete all automated trackings. You will love this level-up.</p>
+          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Raleway"><u>Choose me</u> &gt;</p>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
-      <mj-column>
-        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="http://5vph.mj.am/img/5vph/b/1g8pi/0gzv6.jpeg" target="_blank" width="1200px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
-          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Cake Title</b></p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Georgia,Helvetica,Arial,sans-serif"><u>Choose me</u> &gt;</p>
-        </mj-text>
-      </mj-column>
+    <mj-section background-color="#ffffff">
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" width="600px" />
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="http://5vph.mj.am/img/5vph/b/1g8pi/0gzvh.jpeg" target="_blank" width="1200px"></mj-image>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://lh3.googleusercontent.com/315Y28Ltpme_AzKAP2ezIXTO6UxJpfHcjW5iBn0-HKzzcb0ddlwTgVdvJNkt_bqElS6hGauj6PAPa-vNCwatUApBNwEd2emLUlodpwzq1aQyQKqf5123eYl1GMVeLhWuBV7NdDYRLA=w2400" target="_blank" width="1200px"></mj-image>
       </mj-column>
       <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
-          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Cake Title</b></p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Georgia,Helvetica,Arial,sans-serif"><u>Choose me</u> &gt;</p>
+        <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="60px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Raleway"><b>Access your LAZR portal from anywhere on your mobile devices</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Raleway; color:#354552">Our next major release will allow you to use the platform on mobile platforms. The answer you are looking for will always be close to you.</p>
+          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Raleway"><u>Choose me</u> &gt;</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-button align="center" background-color="#354552" border-radius="3px" color="#ffffff" font-family="Georgia, Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">Discover all desserts</mj-button>
+        <mj-button align="center" background-color="#f45e43" border-radius="3px" color="#ffffff" font-family="Georgia, Helvetica, Arial, sans-serif" font-size="18px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">Get in touch today!</mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="http://5vph.mj.am/img/5vph/b/1g8pi/068y3.jpeg" target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://lh3.googleusercontent.com/l9PCYrF_4E5drVwHn7W_-j2h9xA-IEkVdHa_KMGq8O8LEVGLLkxKOEQVOR5SYRvQp7aYCUV6Lq9vYp2S3atlw9LgN5rbtbM5-ZnnkgUEM8mvpq7iMuh1dUz1tOhcpDjmfQWypC9hag=w2400" target="_blank" width="600px" height="200px" position="absolute"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-image align="center" padding="10px 25px" src="http://5vph.mj.am/img/5vph/b/1g8pi/0gzjm.png" target="_blank" width="202px"></mj-image>
+        <mj-text align="center">
+          LAZR freight Inc -- Blainville, Qc, Can
+        </mj-text>
+        <mj-image align="center" padding="10px 25px" src="https://lh3.googleusercontent.com/sU4ydi2_xsQBQbdDaNTWyAhIlmn-DTpoD980d0XjXOcfVEeKbX_CBcEpXiT2m5ZOLv7EPs913_5VJISi3gwWbRWrdOs9MwfyS8v7T0Pqk0lO5_EsSZBmBvIgKwYmKiz_NakaqANgIw=w2400" target="_blank" width="55px"></mj-image>
+        <mj-button font-family="Raleway" background-color="#f45e43" color="white" width="100px" font-size="8px">
+          Unsubscribe
+        </mj-button>
         <mj-social align="center">
           <mj-social-element name="facebook"></mj-social-element>
-          <mj-social-element name="pinterest"></mj-social-element>
+          <mj-social-element name="linkedin"></mj-social-element>
           <mj-social-element name="instagram"></mj-social-element>
         </mj-social>
       </mj-column>
