@@ -19,8 +19,8 @@
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
-          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Raleway">- Newsletter #### 2020 -</p>
+        <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Raleway">- Monthly Newsletter May 2020 -</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -34,7 +34,7 @@
           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Raleway; color:#354552">Lazr gets a level-up. We're now leaving the vanilla version behind to merge into a new design with tons of new fonctionnalities. From Mobile freindliness, filtering and data analytics, the new design really is the classy feel you need!
             Eager to see the new goodies in action?</p>
         </mj-text>
-        <mj-button font-family="Helvetica" background-color="#f45e43" color="white" href="https://lazr.dev.lazr.dev/">
+        <mj-button font-family="Helvetica" background-color="#0288D1" color="white" href="https://lazr.dev.lazr.dev/">
           See in action now!
         </mj-button>
       </mj-column>
@@ -50,7 +50,7 @@
         <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
           <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Raleway"><b>Automated tracking? Yes please!</b></p>
           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Raleway; color:#354552">Our team is currently ready to attack the next sprint, in which the main quest is to complete all automated trackings. You will love this level-up.</p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Raleway"><u>Choose me</u> &gt;</p>
+          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Raleway"><u>Learn more</u> &gt;</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -65,13 +65,13 @@
         <mj-text align="justify" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="60px">
           <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Raleway"><b>Access your LAZR portal from anywhere on your mobile devices</b></p>
           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Raleway; color:#354552">Our next major release will allow you to use the platform on mobile platforms. The answer you are looking for will always be close to you.</p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Raleway"><u>Choose me</u> &gt;</p>
+          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Raleway"><u>Learn more</u> &gt;</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-button align="center" background-color="#f45e43" border-radius="3px" color="#ffffff" font-family="Georgia, Helvetica, Arial, sans-serif" font-size="18px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">Get in touch today!</mj-button>
+        <mj-button align="center" background-color="#0288D1" border-radius="3px" color="#ffffff" font-family="Raleway" font-size="18px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">Get in touch today!</mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
@@ -85,7 +85,7 @@
           LAZR freight Inc -- Blainville, Qc, Can
         </mj-text>
         <mj-image align="center" padding="10px 25px" src="https://lh3.googleusercontent.com/sU4ydi2_xsQBQbdDaNTWyAhIlmn-DTpoD980d0XjXOcfVEeKbX_CBcEpXiT2m5ZOLv7EPs913_5VJISi3gwWbRWrdOs9MwfyS8v7T0Pqk0lO5_EsSZBmBvIgKwYmKiz_NakaqANgIw=w2400" target="_blank" width="55px"></mj-image>
-        <mj-button font-family="Raleway" background-color="#f45e43" color="white" width="100px" font-size="8px">
+        <mj-button font-family="Raleway" background-color="#CFD8DC" color="white" width="110px" font-size="9px">
           Unsubscribe
         </mj-button>
         <mj-social align="center">
